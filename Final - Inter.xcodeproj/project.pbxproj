@@ -6,8 +6,13 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2AEA192317DD4E3C00DFEA16 /* Codigo.c in Sources */ = {isa = PBXBuildFile; fileRef = 2AEA192217DD4E3C00DFEA16 /* Codigo.c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		2AEA191B17DD4E2B00DFEA16 /* libFinal - Inter.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = "libFinal - Inter.dylib"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2AEA192217DD4E3C00DFEA16 /* Codigo.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Codigo.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -24,6 +29,7 @@
 		2AEA191217DD4E2B00DFEA16 = {
 			isa = PBXGroup;
 			children = (
+				2AEA192217DD4E3C00DFEA16 /* Codigo.c */,
 				2AEA191C17DD4E2B00DFEA16 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -97,6 +103,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AEA192317DD4E3C00DFEA16 /* Codigo.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
