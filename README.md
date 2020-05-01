@@ -4,10 +4,10 @@
 
 
 # Programming Logic :: Scheduler
-Interdisciplinary Project developed and delivered for the first term of the System's Analysis and Development program, at Instituto Federal da Bahia
+Final Project developed and delivered for the first term of the System's Analysis and Development program, at Instituto Federal da Bahia
 
 #### Project Information
-- Project: ``Assignments of Programming Logic``
+- Project: ``Process Scheduler``
 &nbsp;
 
 - Course code: ``INF-004``
